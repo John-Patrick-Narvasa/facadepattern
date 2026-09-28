@@ -16,10 +16,3 @@ Cart: A service class implementing the HotelService interface, responsible for h
 FrontDesk: The facade class that coordinates interactions between the client (HotelApp) and the individual hotel services.
 
 HotelApp: The client class that uses the FrontDesk facade to access and utilize hotel services seamlessly.
-
-In your solution you must provide the following in your Github link account:
-
-  Problem statement (description of the problem. Just copy what is stated here.
-  UML Class Diagram
-  Uploaded java codes for the solution.
-Upload your GitHub Solution link here.
