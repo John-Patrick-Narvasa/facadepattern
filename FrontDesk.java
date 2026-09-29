@@ -22,10 +22,4 @@ public class FrontDesk {
     public void pickUpVehicle(String plateNumber) {
         valetService.pickUpVehicle(plateNumber);
     }
-    
-    public void hotelService(int numberOfCarts, int roomNumber, String plateNumber) {
-        cartService.requestCart(numberOfCarts);
-        houseKeepingService.cleanRoom(roomNumber);
-        valetService.pickUpVehicle(plateNumber);
-    }
 }
