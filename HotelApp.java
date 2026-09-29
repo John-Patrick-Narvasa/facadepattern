@@ -7,6 +7,5 @@ public class HotelApp {
         frontDesk.requestCart(5);
         frontDesk.cleanRoom(101);
         frontDesk.pickUpVehicle("ABC123");
-        frontDesk.parkVehicle("ABC123");
     }  
 }
